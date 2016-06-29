@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pizzeria Monalisa</string>
+    <string name="business_name">Pizzeria Monalisa</string>
+    <string name="business_phone">(48) 3348-1904</string>
+    <string name="business_address">234, Prof. Áurea Cruz Street</string>
+    <string name="business_website">www.pizzariamonalisa.com.br</string>
+</resources>
